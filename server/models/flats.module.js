@@ -14,4 +14,4 @@ const FlatSchema = new mongoose.Schema({
 
 const Flat = mongoose.model("FlatData", FlatSchema);
 
-module.exports = Flat
+module.exports = Flat;

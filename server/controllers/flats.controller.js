@@ -1,5 +1,5 @@
 const express = require("express");
-const Flat = require("../modules/flats.module")
+const Flat = require("../models/flats.module")
 
 const router = express.Router()
 
